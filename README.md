@@ -1,15 +1,7 @@
-<!-- Header -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+WooYoung+Yang+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%26+AWS+Enthusiast+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+WooYoung+Yang+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%26+AWS+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
 </div>
 
----
-
-## 🙋 About Me
-
----
 
 ## 🛠️ Tech Stacks
 
@@ -33,8 +25,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangwooyoung123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangwooyoung123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yangwooyoung123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangwooyoung123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&count_private=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yangwooyoung123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 </div>
 
 ---
